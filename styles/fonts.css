@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Heavy';
+    src: url('styles/Avenir Heavy.ttf');
+}
+@font-face {
+    font-family: 'Medium';
+    src: url('styles/Avenir Medium.ttf');
+}
+@font-face {
+    font-family: 'Book';
+    src: url('styles/Avenir Book.ttf');
+}
