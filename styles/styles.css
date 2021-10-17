@@ -15,5 +15,13 @@
 }
 .eighteen {
     font-size: 18px;
+    font-family: 'Medium';
+}
+.book {
+    font-size: 16px;
+    font-family: 'Book';
+}
+.heavy {
+    font-size: 14px;
     font-family: 'Heavy';
 }
