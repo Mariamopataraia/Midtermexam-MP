@@ -1,8 +1,8 @@
 .search-icon {
     background-image: url('../images/Component\ 9\ –\ 2.svg');
 }
-.pink {
-    background-color: #FF2288 !important;
+.black {
+    background-color: #black !important;
 }
 .gopro {
     color: #FF2288;
@@ -14,7 +14,7 @@
     background-color: #F2F2F2 !important;
 }
 .eighteen {
-    font-size: 18px;
+    /* font-size: 18px; */
     font-family: 'Medium';
 }
 .book {
@@ -24,4 +24,8 @@
 .heavy {
     font-size: 14px;
     font-family: 'Heavy';
+}
+.backcolor:hover {
+    background: #FF2288 !important;
+    border-radius: 30%px;
 }
